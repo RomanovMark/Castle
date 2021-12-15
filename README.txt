@@ -1,0 +1,2 @@
+This project was made in summer 2020. Prototype was created during studying "Introduction to Game Design,Prototyping, and Development from Concept to Playable Game with Unity and C#" book.
+It was third own project were I learned some basics of simple physics in Unity.
